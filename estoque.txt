@@ -1,0 +1,81 @@
+121,Papel Sulfite A4,500,30
+122,Caixa Organizadora,25,50
+123,Caneta Gel,40,5
+124,Luminária LED,15,40
+125,Fita Adesiva,50,2
+126,Adesivos Diversos,100,10
+127,Marca Texto,30,3
+128,Bloco de Rascunho,20,12
+129,Pastas Suspensas,15,18
+130,Envelope Amarelo,100,20
+131,Caneta Hidrográfica,25,15
+132,Kit de Pintura,10,70
+133,Pincéis para Pintura,12,25
+134,Calculadora Gráfica,5,300
+135,Papel de Scrapbook,50,15
+136,Posters Decorativos,20,20
+137,Régua de Curva,15,5
+138,Papel Couchê,100,30
+139,Agenda Semanal,25,22
+140,Porta-Retrato,30,35
+141,Projetor de Slides,5,800
+142,Kit de Costura,10,45
+143,Caixa de Ferramentas,8,90
+144,Relógio de Mesa,12,50
+145,Calculadora de Mesa,20,25
+146,Espelho de Mesa,10,20
+147,Protetor de Tela,15,35
+148,Suporte para Celular,25,15
+149,Cabo USB,40,10
+150,Carregador Portátil,15,80
+151,Papel de Presentes,50,12
+152,Cinta de Transporte,20,8
+153,Lápis 2B,60,3
+154,Caneta de Ponta Fina,30,5
+155,Clip de Papel,200,5
+156,Desetizador,12,15
+157,Folhas de Ouro,20,50
+158,Papelão,10,20
+159,Caneta Colorida,40,6
+160,Marca Texto Fluorescente,30,4
+161,Adesivo em Gel,20,10
+162,Prancheta,15,20
+163,Bloco de Folhas Adesivas,30,10
+164,Escova de Limpeza,10,15
+165,Conjunto de Carimbos,15,30
+166,Bloco de Desenho,20,20
+167,Papel de Artesanato,25,10
+168,Conjunto de Ferramentas,8,150
+169,Termômetro Digital,10,50
+170,Kit de Jardinagem,5,100
+171,Cesta de Pique-Nique,12,60
+172,Cubo Mágico,20,25
+173,Papel de Foto,50,30
+174,Cesta de Compras,15,20
+175,Fita Métrica,25,15
+176,Lona para Pintura,10,50
+177,Conjunto de Chaves,20,35
+178,Caminho de Mesa,12,25
+179,Copo Térmico,10,45
+180,Conjunto de Tintas,5,80
+181,Coqueteleira,15,20
+182,Pasta de Arquivo,30,15
+183,Fone de Ouvido,20,50
+184,Carpete de Mesa,5,200
+185,Caixa de Som Bluetooth,10,120
+186,Camiseta Personalizada,15,40
+187,Caneca de Cerâmica,20,20
+188,Protetor de Ouvido,25,10
+189,Luvas de Trabalho,30,12
+190,Cinta de Ginástica,15,25
+191,Pote de Plástico,50,5
+192,Caixa de Som Portátil,8,150
+193,Suporte para Tablet,20,25
+194,Carrinho de Supermercado,10,90
+195,Fraude de Tinta,15,25
+196,Conjunto de Talheres,50,35
+197,Toalha de Mesa,20,45
+198,Papel de Presentes Decorado,30,12
+199,Frasqueira,10,70
+200,Relógio Inteligente,5,500
+201,Óculos do Ben 10,2,25
